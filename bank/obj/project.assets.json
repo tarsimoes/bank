@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\224032\\.nuget\\packages\\": {}
+    "C:\\Users\\224047\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\224032\\Desktop\\Ecommerce Front\\formacao_es\\backend\\bank\\bank\\bank\\bank.csproj",
+      "projectUniqueName": "C:\\workspace\\aula_csharp_vs\\Centauro\\bank\\bank\\bank.csproj",
       "projectName": "bank",
-      "projectPath": "C:\\Users\\224032\\Desktop\\Ecommerce Front\\formacao_es\\backend\\bank\\bank\\bank\\bank.csproj",
-      "packagesPath": "C:\\Users\\224032\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\224032\\Desktop\\Ecommerce Front\\formacao_es\\backend\\bank\\bank\\bank\\obj\\",
+      "projectPath": "C:\\workspace\\aula_csharp_vs\\Centauro\\bank\\bank\\bank.csproj",
+      "packagesPath": "C:\\Users\\224047\\.nuget\\packages\\",
+      "outputPath": "C:\\workspace\\aula_csharp_vs\\Centauro\\bank\\bank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\224032\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\224047\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/grupo-sbf/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
