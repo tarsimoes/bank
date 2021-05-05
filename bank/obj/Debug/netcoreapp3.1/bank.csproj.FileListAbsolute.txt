@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\bin\Debug\netcoreapp3.1\bank.exe
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\bin\Debug\netcoreapp3.1\bank.deps.json
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\bin\Debug\netcoreapp3.1\bank.runtimeconfig.json
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\bin\Debug\netcoreapp3.1\bank.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\bin\Debug\netcoreapp3.1\bank.dll
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\bin\Debug\netcoreapp3.1\bank.pdb
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\obj\Debug\netcoreapp3.1\bank.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\obj\Debug\netcoreapp3.1\bank.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\obj\Debug\netcoreapp3.1\bank.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\obj\Debug\netcoreapp3.1\bank.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\obj\Debug\netcoreapp3.1\bank.dll
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\obj\Debug\netcoreapp3.1\bank.pdb
+C:\workspace\aula_csharp_vs\Centauro\bank\bank\obj\Debug\netcoreapp3.1\bank.genruntimeconfig.cache
