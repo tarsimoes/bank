@@ -20,7 +20,12 @@ namespace bank
 
             Console.WriteLine($"O nome do titular da é {contaCorrente.titularConta}");
             Console.WriteLine($"O nome do segundo titular é {contaCorrente2.titularConta}");
+
             
+        }
+        public static void SystemInternal()
+        {
+            var teste = string.Empty;
         }
     }
 }
