@@ -1,4 +1,6 @@
 ﻿using System;
+using bank.Sistemas;
+using bank.Employee;
 
 namespace bank
 {
@@ -21,11 +23,18 @@ namespace bank
             Console.WriteLine($"O nome do titular da é {contaCorrente.titularConta}");
             Console.WriteLine($"O nome do segundo titular é {contaCorrente2.titularConta}");
 
-            
         }
         public static void SystemInternal()
         {
-            var teste = string.Empty;
+            SystemInternal systemInternal = new SystemInternal();
+            Director director = new Director("123.456.789-01");
+            director.name = "Taynara";
+            director.password = "123654";
+
+            AccountManager accountManager = new AccountManager("12343212354");
+            accountManager.name = "Gustavo";
+            accountManager.password = "123abc";
         }
+    
     }
 }
