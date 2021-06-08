@@ -4,7 +4,7 @@ using System.Text;
 
 namespace bank.Employee
 {
-    public class Employee
+    public abstract class Employee
     {
         public string name { get; set; }
         public string cpf { get; set; }
@@ -15,6 +15,8 @@ namespace bank.Employee
             this.cpf = cpf;
             this.salary = salary;
         }
+
+        public abstract void IncreaseSalary();
 
     }
 }

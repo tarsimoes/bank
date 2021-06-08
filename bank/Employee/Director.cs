@@ -10,5 +10,9 @@ namespace bank.Employee
         {
 
         }
+        public override void IncreaseSalary()
+        {
+            salary *= 1.3;
+        }
     }
 }
